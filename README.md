@@ -30,7 +30,7 @@ This paper takes the moral sensitivity work to first-person video content. NoRA 
 
 - [Discerning What Matters: A Multi-Dimensional Assessment of Moral Competence in LLMs](https://ojs.aaai.org/index.php/IASEAI/article/view/43035) — IASEAI '26
 
-This was our first eval on LLM moral sensitivity where we used two 12-vignette datasets, one publicly available and one original noise-perturbed set, to measure model moral competence based on human preferences. We found that the models we evaluated did well on the public dataset but worse on the original noisy vignettes. I handled most of the technical aspects of the experiments, noise additions to vignettes, collecting LLM responses and creating human annotation surveys on Qualtrics. The repo and the datasets are available [here](https://github.com/mint-philosophy/Measuring-Moral-Skill-in-LLMs).
+This was our first eval on LLM moral sensitivity where we used two 12-vignette datasets, one publicly available and one original noise-perturbed set, to measure model moral competence based on human preferences. We found that the models we evaluated did well on the public dataset but worse on the original noisy vignettes. I handled most of the technical aspects of the experiments: noise additions to vignettes, collecting LLM responses and creating human annotation surveys on Qualtrics. The repo and the datasets are available [here](https://github.com/mint-philosophy/Measuring-Moral-Skill-in-LLMs).
 
 - [Resource Rational Contractualism Should Guide AI Alignment](https://ojs.aaai.org/index.php/IASEAI/article/view/43037) — IASEAI '26
 
