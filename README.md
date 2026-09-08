@@ -34,7 +34,7 @@ This was our first eval on LLM moral sensitivity where we used two 12-vignette d
 
 - [Resource Rational Contractualism Should Guide AI Alignment](https://ojs.aaai.org/index.php/IASEAI/article/view/43037) — IASEAI '26
 
-As the title suggests, this paper proposes Resource Rational Contractualism (RRC) should be the method for AI alignment in decision making where goals and values diverge as it is more efficient and adaptable compared to virtual bargaining for every situation. RRC asks an AI agent to choose between rule-based thinking and virtual bargaining in any given situation based on how usual the situation is and the stakes involved. We found that the RRC method was almost as accurate as virtual bargaining and less costly in terms of token usage. The repo is available [here](https://github.com/mint-philosophy/RRC_experiments).
+As the title suggests, this paper proposes Resource Rational Contractualism (RRC) should be the method for AI alignment in decision making where goals and values diverge as it is more efficient and adaptable compared to virtual bargaining for every situation. RRC asks an AI agent to choose between rule-based thinking and virtual bargaining in any given situation based on how usual the situation is and the stakes involved. We found that the RRC method was almost as accurate as virtual bargaining and less costly in terms of token usage. My contributions were collecting LLM responses and analysing the output. The repo is available [here](https://github.com/mint-philosophy/RRC_experiments).
 
 ## 📫 Get in touch
 
