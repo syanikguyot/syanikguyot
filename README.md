@@ -21,7 +21,8 @@ Check out my [LinkedIn profile](https://www.linkedin.com/in/secilyanik) to find 
 - [A Scalable Approach to Evaluating Moral Sensitivity in LLMs](https://arxiv.org/abs/2607.02972) — arXiv, 2026
 
 I am a co-first author of this paper which evaluated the moral competence of LLMs in noisy conditions. For this eval, we generated 1000 diverse moral dilemma vignettes based on a methodology my co-first author, Daniel Kilov, and I developed. We then added three types of noisy perturbations and context additions, and asked LLMs to identify any morally relevant features for each vignette. I developed the eval metric of semantic similarity which we used to compare the LLM responses to noisy versions versus the original vignette. We found that the models we evaluated are just as adept at identifying morally relevant features in noisy conditions as in the originals, however, the noise seems to affect how many features they identify, and the direction of change doesn't follow any pattern. Beyond the methodological contributions, I handled all technical aspects: synthetic data generation pipeline, collecting LLM responses, eval metric calculation and data analysis. The repo and the data set are to be published soon. 
-For anyone interested in reading about the motivation of this work, check the [blog post by MINT Lab PI Prof. Seth Lazar](https://blog.cosmos-institute.org/i/206254393/sensitivity) at Cosmos Institute.
+
+For anyone interested in reading about the motivation of this work, check out the [blog post by MINT Lab PI Prof. Seth Lazar](https://blog.cosmos-institute.org/i/206254393/sensitivity) at Cosmos Institute.
 
 - [NoRA: Evaluating Grounded Reasonableness in Visual First-person Normative Action Reasoning](https://arxiv.org/abs/2606.04806) — arXiv, 2026
 
